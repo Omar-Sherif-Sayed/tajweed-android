@@ -1,0 +1,22 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+captures/
+.cxx/
+*.apk
+*.aab
+
+# Signing keys — never commit
+*.jks
+*.keystore
+keystore.properties
+
+# Editors and system files
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+Desktop.ini
+.DS_Store
+/.claude/
